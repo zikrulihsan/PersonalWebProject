@@ -1,4 +1,4 @@
-# Individual live website preview on github
+# INDIVIDUAL PROJECT - Live Website Preview
 
 ## Preview of Personal Web Project
 
