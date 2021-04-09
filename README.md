@@ -6,6 +6,6 @@ https://zikrulihsan.github.io/PersonalWebProject/
 
 ## Web Calculator (extra)
 
-https://zikrulihsan.github.io/PersonalWebProject/
+https://zikrulihsan.github.io/PersonalWebProject/calculator/
 
 
